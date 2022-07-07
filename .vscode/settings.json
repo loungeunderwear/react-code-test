@@ -1,0 +1,18 @@
+{
+  "eslint.format.enable": true,
+  "eslint.workingDirectories": [
+    {"mode": "auto"}
+  ],
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "prettier.requireConfig": true,
+  "prettier.ignorePath": ".prettierignore",
+  "editor.tabSize": 2,
+  "[todo]": {
+    "editor.wordWrap": "on"
+  },
+  "[xml]": {
+    "editor.defaultFormatter": "fabianlauer.vs-code-xml-format"
+  },
+}
